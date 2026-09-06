@@ -33,7 +33,7 @@ layers = 3
 [[keymap.layer]] # layer 0
 keys = """
 Escape 1 2 3 4 5 6 7 8 9 0 Minus Equal Backspace
-Tab Q W E R T Y U I O P LBracket RBracket Backslash
+Tab Q W E R T Y U I O P LeftBracket RightBracket Backslash
 Caps A S D F G H J K L Semicolon Apostrophe Enter
 LShift Z X C V B N M Comma Dot Slash RShift
 LCtrl LGui LAlt Space MO(1) Macro0 Macro1 Macro2
